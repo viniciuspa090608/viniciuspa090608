@@ -89,3 +89,27 @@ Evoluir continuamente como ciêntista da computação, aprofundando conhecimento
 
 ---
 <img src="https://i.pinimg.com/originals/04/49/df/0449dfc633fe5cc592d838245f4906b7.gif" width="100%" height="200px"/>
+
+---
+
+
+
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vini090608&show_icons=true&theme=merko)
+
+</td>
+
+
+</td>
+
+<td width="50%" align="center">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vini090608&layout=compact&theme=merko)
+
+</td>
+</tr>
+</table>
