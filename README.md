@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/04/49/df/0449dfc633fe5cc592d838245f4906b7.gif" width="100%" height="200px"/>
+<img src="https://i.pinimg.com/originals/b4/e3/71/b4e371619042d1e80918d09904e90f7d.gif" width="100%" height="200px"/>
 
 # 👋 Olá, eu sou Vinicius Pereira
 
@@ -88,3 +88,4 @@ Evoluir continuamente como ciêntista da computação, aprofundando conhecimento
 </table>
 
 ---
+<img src="https://i.pinimg.com/originals/04/49/df/0449dfc633fe5cc592d838245f4906b7.gif" width="100%" height="200px"/>
