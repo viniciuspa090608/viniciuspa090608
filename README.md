@@ -35,7 +35,26 @@ Além disso, sou fluente em inglês (en-US), o que me permite consumir conteúdo
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,html,css,js,ts,nodejs,express,tailwind,styledcomponents,react,vite,next,mysql,sqlite,prisma,docker,github,notion,figma,npm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=styledcomponents)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=next)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=prisma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=npm)](https://skillicons.dev)
 
 </div>
 
