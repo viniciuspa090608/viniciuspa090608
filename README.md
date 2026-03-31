@@ -55,6 +55,9 @@ Além disso, sou fluente em inglês (en-US), o que me permite consumir conteúdo
 [![My Skills](https://skillicons.dev/icons?i=prisma)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=gitlab)](https://skillicons.dev)
+
 [![My Skills](https://skillicons.dev/icons?i=notion)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=npm)](https://skillicons.dev)
