@@ -24,7 +24,7 @@ Além disso, sou fluente em inglês (en-US), o que me permite consumir conteúdo
   <a href="mailto:viniciuspereiraassuncao@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />
     <a href="https://github.com/vini090608">
-    <img src="https://komarev.com/ghpvc/?username=viniciuspa090608&color=0d1b2a&style=for-the-badge&label=PROFILE+VIEWS" />
+    <img src="https://komarev.com/ghpvc/?username=vini090608&color=0d1b2a&style=for-the-badge&label=PROFILE+VIEWS" />
   </a>
   </a>
   <a href="https://www.linkedin.com/in/viniciuspa090608/" target="_blank">
@@ -47,6 +47,7 @@ Além disso, sou fluente em inglês (en-US), o que me permite consumir conteúdo
 [![My Skills](https://skillicons.dev/icons?i=express)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=styledcomponents)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=vite)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=next)](https://skillicons.dev)
@@ -54,12 +55,13 @@ Além disso, sou fluente em inglês (en-US), o que me permite consumir conteúdo
 [![My Skills](https://skillicons.dev/icons?i=sqlite)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=prisma)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=gitlab)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=notion)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=npm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
 
 </div>
 
@@ -74,6 +76,7 @@ Além disso, sou fluente em inglês (en-US), o que me permite consumir conteúdo
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/express.js-%23404d59.svg?&logo=express&logoColor=%2361DAFB)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)
 ![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?logo=typeorm&logoColor=fff)
@@ -116,24 +119,30 @@ Evoluir continuamente como ciêntista da computação, aprofundando conhecimento
 
 ---
 
+
+
+
+
+
+
 <div align="center">
 
 <table>
   <tr>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=viniciuspa090608&theme=merko" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vini090608&theme=merko" />
     </td> 
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=viniciuspa090608&theme=merko" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vini090608&theme=merko" />
     </td>
   </tr>
 
   <tr>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viniciuspa090608&theme=merko" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vini090608&theme=merko" />
     </td>
     <td>
-      <img src="https://streak-stats.demolab.com?user=viniciuspa090608&theme=merko&hide_border=false" />
+      <img src="https://streak-stats.demolab.com?user=vini090608&theme=merko&hide_border=false" />
     </td>
   </tr>
 </table>
